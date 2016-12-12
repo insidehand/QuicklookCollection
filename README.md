@@ -131,6 +131,7 @@ homebrew 的概念就類似Linux上的apt，是一個套件管理軟體
 
 ### QLVideo
 播放影片
+	
 	brew cask install qlvideo
 
 ### 顯示影片的基本資料
